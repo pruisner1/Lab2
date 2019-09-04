@@ -1,0 +1,18 @@
+﻿'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Users\PRUISNER1\source\repos\Lab 2 Part 1\Debug\Lab 2 Part 1.exe'. Symbols loaded.
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4380 has exited with code 0 (0x0).
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Lab 2 Part 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x9d4 has exited with code 0 (0x0).
+The thread 0x2ee8 has exited with code 0 (0x0).
+The program '[16584] Lab 2 Part 1.exe' has exited with code 0 (0x0).
